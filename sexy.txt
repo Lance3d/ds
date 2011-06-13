@@ -1,0 +1,272 @@
+{ 
+    "results" : [ { 
+        "from_user_id_str" : "121114066",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1375418692/DrA_Brooks_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:28 +0000",
+        "from_user" : "DrA_Brooks",
+        "id_str" : "77394112147496960",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 117996154,
+        "text" : "@MikeKars not a problem sexy international follower! Lol.",
+        "id" : 77394112147496960,
+        "from_user_id" : 121114066,
+        "to_user" : "MikeKars",
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : "117996154",
+        "source" : "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "140057306",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1382897810/307957327_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:27 +0000",
+        "from_user" : "BiebersSwagTeam",
+        "id_str" : "77394105075900417",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 255989103,
+        "text" : "@madi_biebsswag TOTALY!!!!n and wheres this video honey bunny???? u have to do now uve sed it lol ;) or ill kick yo sexy ass lol xx",
+        "id" : 77394105075900417,
+        "from_user_id" : 140057306,
+        "to_user" : "madi_biebsswag",
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : "255989103",
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "308589416",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1379452739/image_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:27 +0000",
+        "from_user" : "_pussymoneypurp",
+        "id_str" : "77394104681627648",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "¡°@KayLoveSanti: Souther accents are sexy tho.¡± :)",
+        "id" : 77394104681627648,
+        "from_user_id" : 308589416,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "31353964",
+        "profile_image_url" : "http://a0.twimg.com/profile_images/1355173450/Caitlin_Me_normal.png",
+        "created_at" : "Sun, 05 Jun 2011 15:19:24 +0000",
+        "from_user" : "hello_caitlin",
+        "id_str" : "77394092438454272",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 93809854,
+        "text" : "@MadamloverOMG10 Oh! He's sooo sexy! And he's gonna be 53 haha! I wonder when he's coming to MI? I'ma search! I'd love to meet him &lt;3",
+        "id" : 77394092438454272,
+        "from_user_id" : 31353964,
+        "to_user" : "MadamloverOMG10",
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : "93809854",
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "17260604",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1379646912/252392_10150267418040110_654305109_9226828_3003815_n_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:24 +0000",
+        "from_user" : "collinexo",
+        "id_str" : "77394092379734016",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "RT @_barbiemarley: Such #sexy fucking weather, I should be outside being all #sexy in this #sex weather. #sexyyyyyyy",
+        "id" : 77394092379734016,
+        "from_user_id" : 17260604,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry?&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "95426562",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/1379083201/Hello_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:24 +0000",
+        "from_user" : "Kimmiedeeday",
+        "id_str" : "77394092333596672",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Despite feeling #superstupid about #everything right now, at least I am not #hungover and have a sexy voice today..#positive #shitpile",
+        "id" : 77394092333596672,
+        "from_user_id" : 95426562,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "141983376",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/1369231469/1306378447687_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:23 +0000",
+        "from_user" : "Eve_NoApple",
+        "id_str" : "77394090731380737",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "I'ma start wearing glitter body dust.  Not b/c it's sexy, but so when I give the beaux a hug he's marked for the next 7 days no matter what!",
+        "id" : 77394090731380737,
+        "from_user_id" : 141983376,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://www.tweetcaster.com&quot; rel=&quot;nofollow&quot;&gt;TweetCaster&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "70947987",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1035249170/Untitled-1_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:23 +0000",
+        "from_user" : "rhirhilee84",
+        "id_str" : "77394090135785472",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 307580203,
+        "text" : "@littlemamf @marclarplant 13th is looking sexy!! Andy and amy are coming too :) fancy big chinky round mine with loadsa wine after the art!",
+        "id" : 77394090135785472,
+        "from_user_id" : 70947987,
+        "to_user" : "littlemamf",
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : "307580203",
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "299441315",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1381371534/Bubbleeeetumblr_lm61c8dnWp1qfs8flo1_500_normal.gif",
+        "created_at" : "Sun, 05 Jun 2011 15:19:23 +0000",
+        "from_user" : "kkabnisa",
+        "id_str" : "77394089586335745",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "MIAPE ITU YURIIIII???? OKEEE!!!!!!!!! BUAT ANAK YOKKKK YULLLLLLLLL SUMPAHHH SEXY GEWLAHHHHHHH",
+        "id" : 77394089586335745,
+        "from_user_id" : 299441315,
+        "geo" : null,
+        "iso_language_code" : "id",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://mobtweet.net&quot; rel=&quot;nofollow&quot;&gt;mobTweet&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "198342147",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1354354037/New_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:18 +0000",
+        "from_user" : "anggacihui",
+        "id_str" : "77394068845502464",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "YEAH SO I'm SEXY? RT @yogialqy: angga spears RT @anggacihui: Which one? Angga Pitt / Angga Radclife / Angga Cruise / Angga Mars / Angga",
+        "id" : 77394068845502464,
+        "from_user_id" : 198342147,
+        "geo" : null,
+        "iso_language_code" : "sv",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;¨¹berSocial&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "106791701",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1366235732/imagem2_normal.JPG",
+        "created_at" : "Sun, 05 Jun 2011 15:19:13 +0000",
+        "from_user" : "flaa_fclk",
+        "id_str" : "77394045806182400",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "RT @GotyGoreti: Bora galera indicar @LiaKheyReal @revistaVIP 100+ sexy http://vip.abril.com.br/100+/ #achodigno",
+        "id" : 77394045806182400,
+        "from_user_id" : 106791701,
+        "geo" : null,
+        "iso_language_code" : "it",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "139562594",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/1381649184/1-tile_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:13 +0000",
+        "from_user" : "GessiMagacians",
+        "id_str" : "77394045621649408",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "sexy? no es su fuerte",
+        "id" : 77394045621649408,
+        "from_user_id" : 139562594,
+        "geo" : null,
+        "iso_language_code" : "es",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "97034771",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1309485083/image_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:12 +0000",
+        "from_user" : "cateharringtonX",
+        "id_str" : "77394045349011456",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Has been flicking my swelling clit hard so my sexy thong is creamed&amp;scented ready to post to @britishbrunette so she can wear it n cum ...",
+        "id" : 77394045349011456,
+        "from_user_id" : 97034771,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "195906093",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/1381768871/sweeterava1_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:12 +0000",
+        "from_user" : "gavinscoffee",
+        "id_str" : "77394042735968257",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "It's soo freakin Hot today around Copenhagen &amp; with all this #sweeter @gavindegraw music inda air it sure gets even more Hot! #Sexy #summer",
+        "id" : 77394042735968257,
+        "from_user_id" : 195906093,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "226030551",
+        "profile_image_url" : "http://a0.twimg.com/profile_images/1377005420/SAM_3558_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 15:19:11 +0000",
+        "from_user" : "lettyycoldriver",
+        "id_str" : "77394039753805824",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Painted my nails #hotpink they look #sexy #haha",
+        "id" : 77394039753805824,
+        "from_user_id" : 226030551,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    } ],
+    "max_id" : 77394112147496960,
+    "since_id" : 0,
+    "refresh_url" : "?since_id=77394112147496960&q=sexy",
+    "next_page" : "?page=2&max_id=77394112147496960&q=sexy",
+    "results_per_page" : 15,
+    "page" : 1,
+    "completed_in" : "0.027612",
+    "since_id_str" : "0",
+    "max_id_str" : "77394112147496960",
+    "query" : "sexy"
+}

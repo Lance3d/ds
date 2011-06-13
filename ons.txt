@@ -1,0 +1,277 @@
+{ 
+    "results" : [ { 
+        "from_user_id_str" : "179409489",
+        "profile_image_url" : "http://a0.twimg.com/profile_images/1202076439/g6fr_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:57:02 +0000",
+        "from_user" : "Haopengyouu",
+        "id_str" : "77388465410543617",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 255212802,
+        "text" : "@Huilinx haha tjaa, als je vaak met ons skyped zul je uiteindelijk onze tekeningen snappen XD",
+        "id" : 77388465410543617,
+        "from_user_id" : 179409489,
+        "to_user" : "Huilinx",
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : "255212802",
+        "source" : "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "104680657",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/1378207439/tt_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:57:01 +0000",
+        "from_user" : "luanbaltar_i",
+        "id_str" : "77388462273212416",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "BOOOA TARRDE (daqui a pouco)! Vamos l¨¢ ? Hit Parade da @radiojovempan meio-dia. Tudo sobre.. aqui! :D #ONs",
+        "id" : 77388462273212416,
+        "from_user_id" : 104680657,
+        "geo" : null,
+        "iso_language_code" : "pt",
+        "place" : { 
+            "id" : "ad8a3318a4317a03",
+            "type" : "city",
+            "full_name" : "S?o Jos¨¦ dos Campos, S?o Paulo"
+        },
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "242642255",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1315842679/1271269203_5_pbMG_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:59 +0000",
+        "from_user" : "boenoor",
+        "id_str" : "77388453528088576",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "me oma is bij ons thuis -.-",
+        "id" : 77388453528088576,
+        "from_user_id" : 242642255,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "241645135",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/1380661969/IMG00916-20110603-1636_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:56 +0000",
+        "from_user" : "_RNx",
+        "id_str" : "77388439779160064",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Ik neem je mee naar een plek van ons !",
+        "id" : 77388439779160064,
+        "from_user_id" : 241645135,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry?&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "109112661",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1160251242/205073132_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:55 +0000",
+        "from_user" : "dickoh86",
+        "id_str" : "77388433860993025",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Staan we dan met ons goeie gedrag op een camping @zeewolden",
+        "id" : 77388433860993025,
+        "from_user_id" : 109112661,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;¨¹berSocial&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "148293585",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1375862619/image_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:52 +0000",
+        "from_user" : "frankmaskoet",
+        "id_str" : "77388423794667520",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 157809992,
+        "text" : "@bentevmeurs @Robbertt2 we waren gwn hyper en melig xd met mijn mooie speakers xd dikke dubstep en polska xd iedereen keek ons na xd",
+        "id" : 77388423794667520,
+        "from_user_id" : 148293585,
+        "to_user" : "bentevmeurs",
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : "157809992",
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "265464877",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1380476833/slippers1_normal.JPG",
+        "created_at" : "Sun, 05 Jun 2011 14:56:51 +0000",
+        "from_user" : "LuQibooy",
+        "id_str" : "77388420833488896",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "RT @Amaaalii: @LuQibooy als hij ze gaat halen zeg dan dat hij die witte moet nemen =) ~ Hij gaat sowieso halen toog dan hoort hij bij ons!",
+        "id" : 77388420833488896,
+        "from_user_id" : 265464877,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;¨¹berSocial&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "205644069",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1361342708/IMG000274_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:51 +0000",
+        "from_user" : "joyceuuu",
+        "id_str" : "77388420812517376",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 187360084,
+        "text" : "@MarijkeSmid lang leve ons :D wij zijn echt slim :D:D",
+        "id" : 77388420812517376,
+        "from_user_id" : 205644069,
+        "to_user" : "MarijkeSmid",
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : "187360084",
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "184792557",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/1376743459/302161855_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:49 +0000",
+        "from_user" : "MaisaEcstacy",
+        "id_str" : "77388409529827328",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "RT @QuilleZ: RT @Shazui: Pizzabrood advies van @thadreamerz :D -NIET VERTELLEN!!! Ons Geheim!!!!!! &lt; Niks topt die van mij en sha =O",
+        "id" : 77388409529827328,
+        "from_user_id" : 184792557,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;¨¹berSocial&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "105590755",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1150164347/krlogo_normal.png",
+        "created_at" : "Sun, 05 Jun 2011 14:56:46 +0000",
+        "from_user" : "KrushradioNL",
+        "id_str" : "77388396535877632",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Hebben jullie verzoekjes vertel ons die en stem op de uitkatertip : Ram Jam, The Hives of Mohombi ;)",
+        "id" : 77388396535877632,
+        "from_user_id" : 105590755,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "227610612",
+        "profile_image_url" : "http://a1.twimg.com/profile_images/1361841588/hoooi_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:43 +0000",
+        "from_user" : "rachelwillems",
+        "id_str" : "77388387312615424",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "glitter, glamor, gordon. echt ons lievelingsprogramma!",
+        "id" : 77388387312615424,
+        "from_user_id" : 227610612,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "6019652",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/629531410/Ruben_Hadders_twitter_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:43 +0000",
+        "from_user" : "rhadders",
+        "id_str" : "77388387019005952",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : 7755180,
+        "text" : "@zemartino @josstrengholt De Geest doet ons Gods Woord verstaan, maar Hij interpreteert niet!",
+        "id" : 77388387019005952,
+        "from_user_id" : 6019652,
+        "to_user" : "zemartino",
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : "7755180",
+        "source" : "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "3380687",
+        "profile_image_url" : "http://a2.twimg.com/profile_images/117465519/logo-erica_normal.png",
+        "created_at" : "Sun, 05 Jun 2011 14:56:42 +0000",
+        "from_user" : "heraldsports",
+        "id_str" : "77388382971494401",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "RT @kaufsports: Monica Puig of Miami lost #FrenchOpen jr final 7-6 (8), 6-1 to Ons Jabeur, Tunisia. American Bjorn Frantangelo (named...",
+        "id" : 77388382971494401,
+        "from_user_id" : 3380687,
+        "geo" : null,
+        "iso_language_code" : "en",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "303939161",
+        "profile_image_url" : "http://a3.twimg.com/profile_images/1372171112/1285037828_5_QR4n_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:37 +0000",
+        "from_user" : "tiener_feitjess",
+        "id_str" : "77388361614110721",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Bezig met de hyve pimpen dus nu even geen tweets maar blijf ons helpen naar de 300 ^^",
+        "id" : 77388361614110721,
+        "from_user_id" : 303939161,
+        "geo" : null,
+        "iso_language_code" : "nl",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+    }, { 
+        "from_user_id_str" : "38463939",
+        "profile_image_url" : "http://a0.twimg.com/profile_images/1379783649/ddc53d8ba3f99bfbe6b275ffa0e9c55afabcdefg_normal.jpg",
+        "created_at" : "Sun, 05 Jun 2011 14:56:31 +0000",
+        "from_user" : "weky",
+        "id_str" : "77388335433265152",
+        "metadata" : { 
+            "result_type" : "recent"
+        },
+        "to_user_id" : null,
+        "text" : "Kekira brp % kemungkinan tidak terjadi ONS dengan pengantar Pizza/McD di kala udara dingin dan perut lapar begini? #kokkayakbokep",
+        "id" : 77388335433265152,
+        "from_user_id" : 38463939,
+        "geo" : null,
+        "iso_language_code" : "id",
+        "to_user_id_str" : null,
+        "source" : "&lt;a href=&quot;http://getsocialscope.com&quot; rel=&quot;nofollow&quot;&gt;SocialScope&lt;/a&gt;"
+    } ],
+    "max_id" : 77388465410543617,
+    "since_id" : 0,
+    "refresh_url" : "?since_id=77388465410543617&q=ons",
+    "next_page" : "?page=2&max_id=77388465410543617&q=ons",
+    "results_per_page" : 15,
+    "page" : 1,
+    "completed_in" : "0.045864",
+    "since_id_str" : "0",
+    "max_id_str" : "77388465410543617",
+    "query" : "ons"
+}
