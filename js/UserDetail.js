@@ -7,7 +7,7 @@
         
     cls: 'user-detail',
     initComponent: function(){
-        this.dockedItems = [{
+        this.dockedItems = appendAdBar([{
             xtype: 'toolbar',
             items: [{
                 ui: 'back',
@@ -24,7 +24,7 @@
                     });
                 }
             }]
-        }];
+        }]);
         
         this.items = [{
             tpl: new Ext.XTemplate( '<img src="{profile_image_url}" /><h3>{from_user}</h3><h4 class="subdata">{text}</h4>'),
