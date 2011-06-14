@@ -9,6 +9,7 @@
     initComponent: function(){
         this.dockedItems = appendAdBar([{
             xtype: 'toolbar',
+            title: this.record.data.from_user,
             items: [{
                 ui: 'back',
                 text: '返回',

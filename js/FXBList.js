@@ -23,7 +23,6 @@ btn_postFXB.push({xtype: 'spacer'});
 
 var FXBListToolbar = [
     new Ext.Toolbar({
-        ui: 'light',
         dock: 'top',
         items: btn_cityFXB.concat(btn_postFXB).concat(btn_localFXB),
     }),
