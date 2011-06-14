@@ -54,10 +54,91 @@ ds.views.TagFormCard = Ext.extend(Ext.Panel, {
             },]
         }];
         
-        this.html = "under construction";        
+        // tag form
+        var formBase = {
+            scroll: 'vertical',            
+            html: "<p align='center'>小窍门：开启VIP标签，可以提高速配效率</p>",
+            items: [
+               {
+                    xtype: 'fieldset',
+                    //title: '免费标签',
+                    defaults: {
+                        required: true,
+                        labelAlign: 'left',
+                        labelWidth: '40%'
+                    },
+                    items: [{
+                            xtype: 'textfield',
+                            name : 'tag1',
+                            label: '标签一',
+                            value: '吃饭',
+                            useClearIcon: true,                            
+                        }, {
+                            xtype: 'textfield',
+                            name : 'tag2',
+                            label: '标签二',
+                            value: '看电影',
+                            useClearIcon: true,
+                        }, 
+                    ]
+                }, {
+                    xtype: 'fieldset',
+                    title: 'VIP专享标签',
+                    defaults: {
+                        labelAlign: 'left',
+                        labelWidth: '40%'
+                    },
+                    items: [{
+                            xtype: 'textfield',
+                            name : 'tag3',
+                            label: '标签三',
+                            value: '闲聊',                            
+                            useClearIcon: true,
+                            disabled: true,                            
+                        }, {
+                            xtype: 'textfield',
+                            name : 'tag4',
+                            label: '标签四',
+                            value: '约会',
+                            useClearIcon: true,
+                            disabled: true,
+                        }, {
+                            xtype: 'textfield',
+                            name : 'tag5',
+                            label: '标签五',                            
+                            value: '征婚',
+                            useClearIcon: true,
+                            disabled: true,
+                        }, 
+                    ],
+                },{
+                    xtype: 'button',
+                    text: '更新',
+                    ui: 'confirm',
+                    style: 'margin:2%;',
+                    scope: this,
+                    handler: function() {
+                        var tags = this.tagForm.getValues();                        
+                        for(idx in tags) console.log(idx + ':' + tags[idx]);
+                    }
+                }, 
+            ],
+        };
+        
+        var tagForm = new Ext.form.FormPanel(formBase);
+        
+        // 根据是否为VIP来调整form的显示
+        var isVIP = false;
+        if(isVIP){
+            tagForm.html = '';
+            tagForm.items.get(1).items.each(function(item){item.enable();});            
+        }
+        
+        this.tagForm = tagForm;
+        this.items = this.tagForm;
                 
         ds.views.TagFormCard.superclass.initComponent.call(this);
-    },
+    },  // initComponent()
 
 
 });
