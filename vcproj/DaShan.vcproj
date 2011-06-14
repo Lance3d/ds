@@ -222,6 +222,10 @@
 				RelativePath="..\js\UserDetail.js"
 				>
 			</File>
+			<File
+				RelativePath="..\js\UtilPages.js"
+				>
+			</File>
 		</Filter>
 		<File
 			RelativePath="..\index.html"

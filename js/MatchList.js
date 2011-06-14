@@ -1,38 +1,25 @@
-﻿// toolbar def start
-
-var btn_listView = [{
-    text: '列表模式',  
-    handler: function(){},
-}];
-
-var btn_editTag = [{
-    text: '编辑标签',    
-    iconMask: true,
-    iconCls: 'compose',
-    scope: this,
-    handler: function(){
-        ds.switchCard(ds.theApp, ds.theApp.tabPanel, ds.views.TagFormCard);
+﻿// toolbar def
+var MatchListToolbar = [{
+        text: '列表模式',  
+        handler: function(){},
+    },{
+        xtype: 'spacer',
+    },{
+        text: '编辑标签',    
+        iconMask: true,
+        iconCls: 'compose',
+        scope: this,
+        handler: function(){
+            ds.switchCard(ds.theApp, ds.theApp.tabPanel, ds.views.TagFormCard);
+        },
+    },{
+        xtype: 'spacer',
+    },{
+        text: '聊天记录',
+        badgeText: '2',   
+        handler: function () {},
     },
-}];
-
-var btn_chatLog = [{
-    text: '聊天记录',
-    badgeText: '2',   
-    handler: function () {},
-}];
-
-btn_listView.push({xtype: 'spacer'});
-btn_editTag.push({xtype: 'spacer'});
-
-var MatchListToolbar = [
-    new Ext.Toolbar({
-        ui: 'light',
-        dock: 'top',
-        items: btn_listView.concat(btn_editTag).concat(btn_chatLog),
-    }),
 ];
-
-// toolbar def end
 
 ds.views.MatchList = Ext.extend(Ext.Panel, {
     layout: 'card',
@@ -50,7 +37,11 @@ ds.views.MatchList = Ext.extend(Ext.Panel, {
         this.listPanel = new Ext.Panel({
             items: this.list,
             layout: 'fit',
-            dockedItems: MatchListToolbar,
+            dockedItems: appendAdBar([{
+                xtype: 'toolbar',
+                dock: 'top',
+                items: MatchListToolbar,
+            }]),
         });
         
         this.items = this.listPanel;
