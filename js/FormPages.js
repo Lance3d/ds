@@ -6,21 +6,6 @@ ds.switchCard = function(owner, prevCd, targetCd){
     owner.setActiveItem(target, 'slide');    
 };
 
-// 用户列表元素选中后的处理。
-// 传入的options应该包括以下两个元素: options.prevCard 和 options.parent
-ds.onUserSelect = function(selectionmodel, records, options){    
-    if( records[0] != undefined){
-        var userCard = new ds.views.UserDetail({
-            prevCard: options.prevCard,
-            record: records[0]
-        });
-
-        // Tell the parent panel to animate to the new card
-        options.parent.setActiveItem(userCard, 'slide');
-    }
-}
-
-
 
 ds.views.TagFormCard = Ext.extend(Ext.Panel, {
     scroll: 'vertical',
