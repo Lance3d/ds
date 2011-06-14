@@ -77,7 +77,7 @@ ds.UserBriefList = Ext.extend(Ext.List, {
 
     plugins: [{
         ptype: 'listpaging',
-        autoPaging: false
+        autoPaging: true
     }, {
         ptype: 'pullrefresh'
     }],            
