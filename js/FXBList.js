@@ -50,8 +50,11 @@ ds.views.FXBList = Ext.extend(Ext.Panel, {
         
         this.items = this.listPanel;
         
-        selOptions = {prevCard: this.listPanel, parent: this}
-        this.list.on('selectionchange', ds.onUserSelect, this, selOptions);
+        this.list.on('selectionchange', 
+            function(selectionmodel, records){
+                options = {prevCard: ds.theApp.tabPanel, parent: ds.theApp};
+                ds.onUserSelect(selectionmodel, records, options)
+            }, this);
         
         ds.views.FXBList.superclass.initComponent.call(this);
     },
