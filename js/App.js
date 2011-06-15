@@ -39,7 +39,13 @@
         }
                 
         ds.views.MainPanel.superclass.initComponent.call(this);
-    }
+    },
+    
+    listeners: {
+        beforeactivate: function(){
+            this.getActiveItem().fireEvent('beforeactivate');            
+        }
+    },
     
 }); 
 
