@@ -87,10 +87,9 @@ ds.UserBriefList = Ext.extend(Ext.List, {
 // 传入的options应该包括以下两个元素: options.prevCard 和 options.parent
 ds.onUserSelect = function(selectionmodel, records, options){    
     if( records[0] != undefined){
-        var userCard = new ds.views.UserDetail({
-            prevCard: options.prevCard,
-            record: records[0]
-        });
+        var userCard = ds.globals.userDetailCard;
+        userCard.prevCard = options.prevCard;        
+        userCard.refreshContent(records[0]);
 
         // Tell the parent panel to animate to the new card
         options.parent.setActiveItem(userCard, 'slide');

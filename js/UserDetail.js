@@ -9,7 +9,6 @@
     initComponent: function(){
         this.dockedItems = appendAdBar([{
             xtype: 'toolbar',
-            title: this.record.data.from_user,
             items: [{
                 ui: 'back',
                 text: '返回',
@@ -19,9 +18,6 @@
                         type: 'slide',
                         reverse: true,
                         scope: this,
-                        after: function(){
-                            this.destroy();
-                        }
                     });
                 }
             }]
@@ -29,11 +25,15 @@
         
         this.items = [{
             tpl: new Ext.XTemplate( '<img src="{profile_image_url}" /><h3>{from_user}</h3><h4 class="subdata">{text}</h4>'),
-            data: this.record.data,
             styleHtmlContent: true
         }];        
                 
         ds.views.UserDetail.superclass.initComponent.call(this);
+    },
+    
+    refreshContent: function(record){
+        this.dockedItems.get(0).setTitle(record.data.from_user);
+        this.items.get(0).update(record.data);        
     },
     
 });
